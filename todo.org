@@ -1,0 +1,17 @@
+** key milestones
+*** TODO libpython-clj basically functional
+*** TODO connected to ableton
+*** TODO first useful ETL
+*** TODO midi-to-ableton
+*** TODO sync with ableton
+*** TODO bass-from-harm accompaniment
+*** TODO nanoKontrol2 to PHIL
+*** TODO more sophisticated bassist with NK2 expressions
+*** TODO harmony-section
+    reads 'harm' midi and traces low-jump single-note-legato paths through, the way I often do manually
+    outputs these paths on different midi channels (or however output works at this point)
+**** 
+*** TODO improvisor
+    responds to a single pre-arranged instrument at (hardware-adjustable) intervals in the best "call and response" style I can manage
+** nice-to-haves
+*** TODO babashka-based command line parsing, jvm called by it with config as validated edn

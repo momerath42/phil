@@ -1,0 +1,4 @@
+{:listens
+ {:python-executable "c:\\Users\\micha\\anaconda3\\python.exe"
+  :library-path "c:\\Users\\micha\\anaconda3"
+  :windows-anaconda-activate-bat "c:\\Users\\micha\\anaconda3\\condabin\\activate.bat"}}
